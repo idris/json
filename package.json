@@ -1,0 +1,5 @@
+{
+  "name": "json",
+  "version": "1.0.4",
+  "description": "JSON compatibility for older browsers"
+}
